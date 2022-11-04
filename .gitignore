@@ -1,0 +1,10 @@
+.DS_Store
+*~
+.import/
+logs/
+android/build/.gradle
+android/build/assets
+android/build/assetPacks/installTime/src
+android/build/build
+android/build/res/*
+!android/build/res/values/themes.xml
